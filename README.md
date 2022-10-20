@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab - Cart - Pay </h1>
+<h1 align="center"> Explorer Lab - Card - Pay </h1>
 
 <p align="center">
 Projeto desenvolvido durante o evento Explorer Lab, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -18,7 +18,7 @@ Projeto desenvolvido durante o evento Explorer Lab, promovido pela Rocketseat pa
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="daipay" src=".github/project.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O Daipay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
